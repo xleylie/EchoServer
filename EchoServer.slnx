@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TCPClient/TCPClient.csproj" />
+  <Project Path="TCPServer/TCPServer.csproj" />
+  <Project Path="UDPClient/UDPClient.csproj" Id="a57c6d2e-825d-4422-9efb-ed2e394e3018" />
+  <Project Path="UDPServer/UDPServer.csproj" Id="6b59dd13-8366-467f-bbd8-6f75a47f4a77" />
+</Solution>
